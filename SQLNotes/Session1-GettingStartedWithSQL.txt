@@ -54,7 +54,7 @@ Drop database:
 drop database trendytech;
 
 
-How do I know which database I am in currently:
+How do I know which database I am in currently
 
 ================================================
 
